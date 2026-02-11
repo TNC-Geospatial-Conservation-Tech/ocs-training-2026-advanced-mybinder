@@ -1,6 +1,6 @@
 # OCS 2026 Training - Advanced Module | Binder Repository
 
-**Launch Advanced Module Notebooks:** [![Binder](https://mybinder.org/v2/gh/TNC-Geospatial-Conservation-Tech/ocs-training-2026-advanced-mybinder/main)
+**Launch Advanced Module Notebooks:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TNC-Geospatial-Conservation-Tech/ocs-training-2026-advanced-mybinder/main)
 
 The main Spatial Data Science Virtual Training 2026 repo can be found here: https://github.com/TNC-Geospatial-Conservation-Tech/ocs-2026-training
 
