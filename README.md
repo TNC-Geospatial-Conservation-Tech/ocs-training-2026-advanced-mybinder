@@ -10,8 +10,8 @@ To view **and execute python** notebook cells, use the `Binder` badge above to l
 
 To view workbooks in a non-interactive webpage, use the links below:
 
-* [Lesson 1: Introduction to `Xarray`](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-advanced-mybinder/01_intro_Xarray.html)
-* [Lesson 2: HRRR Climate Data on AWS](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-advanced-mybinder/02_plot-2mt.html)
+* [Lesson 1: Introduction to `xarray`](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-advanced-mybinder/01_intro_Xarray.html)
+* [Lesson 2: Visualize NCEP's HRRR Temperature Data using `zarr`](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-advanced-mybinder/02_plot-2mt.html)
 * [Lesson 3: 3D Visualization of PRISM Datasets with `lexcube`](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-advanced-mybinder/03_prism_3d_bigdata_lexcube.html)
 * [Lesson 4: Invasive Species Mapping with Machine Learning]()
 * [Static Homepage](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-advanced-mybinder/)
