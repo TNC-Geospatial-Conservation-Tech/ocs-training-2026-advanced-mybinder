@@ -12,10 +12,6 @@ To view workbooks in a non-interactive webpage, use the links below:
 
 * [Lesson 1: Introduction to `Xarray`](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-advanced-mybinder/01_intro_Xarray.html)
 * [Lesson 2: HRRR Climate Data on AWS](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-advanced-mybinder/02_plot-2mt.html)
-* Lesson 3: 3D Visualization of Geospatial Big Data:
-  - [Google Earth Engine Data Viz with `lexcube`](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-advanced-mybinder/03a_google_earth_engine_lexcube.html)
-  - [PRISM Datasets Viz with `lexcube`](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-advanced-mybinder/03b_prism_3d_bigdata_lexcube.html)
-  - [Spectral Indices with `cubo` and `spyndex`](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-advanced-mybinder/03c_spectral_indices_with_cubo_and_spyndex.html)
-  - [Spectral Indices with `open eo`](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-advanced-mybinder/03d_spectral_indices_with_open_eo.html)
+* [Lesson 3: 3D Visualization of PRISM Datasets with `lexcube`](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-advanced-mybinder/03_prism_3d_bigdata_lexcube.html)
 * [Lesson 4: Invasive Species Mapping with Machine Learning]()
 * [Static Homepage](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-advanced-mybinder/)
