@@ -1,7 +1,6 @@
 name: ocs-advanced-binder
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.12
   - ipykernel=6.29
@@ -31,4 +30,4 @@ dependencies:
   - boto3=1.40
   - pip=26.0
   - pip:
-    - lexcube=1.0.3
+    - lexcube==1.0.3
